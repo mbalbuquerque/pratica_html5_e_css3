@@ -1,0 +1,25 @@
+    @charset "utf-8";
+        
+        
+        body{
+            background-color: azure;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 20px;
+            }
+
+        h1 {
+            color: blue;
+            background-color: aqua;
+
+        }    
+
+        h2 {
+            color: darkmagenta;
+            background-color: pink;
+
+        }
+        p {
+            text-align: justify;
+        }
+
+  
