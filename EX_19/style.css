@@ -18,3 +18,19 @@ h2 {
 
     background-color: rgb(118, 197, 0)
 }
+
+.basico {
+    text-align: justify;
+    color: blue;
+}
+
+.intermediario {
+    text-align: justify;
+    color: brown;
+}
+
+.avancado{
+    text-align: justify;
+    color: blueviolet;
+
+}
